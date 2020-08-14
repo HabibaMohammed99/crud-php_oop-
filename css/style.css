@@ -1,0 +1,47 @@
+.back{
+background-image: url(../img/back.jpg);
+background-size: 100%;
+height: 41rem;
+position: relative;
+
+}
+.back h3{
+    margin-top: 2rem;
+    margin-left: 23rem;
+    position: absolute;
+    color: rgba(238, 198, 19, 0788);
+    font-family: 'Dancing Script', cursive;
+    font-size: 6rem;
+}
+body{
+    overflow:auto;
+    background-color: rgb(229, 231, 233);
+}
+.navbar-nav{
+   margin-left: auto; 
+}
+.nav-item
+{
+    margin-left:2rem ;
+}
+
+.navbar-dark .navbar-brand {
+   color: rgba(129, 225, 241, 0.9);
+   font-weight: 700;
+   font-family: 'Segoe UI ';
+   font-size: x-large;
+}
+
+
+ .navbar-nav .nav-link {
+    color: rgb(145, 240, 240) !important;
+}
+
+
+.title{
+    font-size: 1rem;
+    color: rgb(45, 93, 95);
+    margin-top: 2rem;
+    margin-left: 32rem;
+    position: absolute;
+}
